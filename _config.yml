@@ -1,2 +1,1 @@
 theme: jekyll-theme-cayman
-npx create-strapi-app my-project --quickstart
